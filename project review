@@ -1,0 +1,10 @@
+Smart Data Analyzer & Visualizer –
+I created a complete Python desktop application that makes working with data easy and intuitive. The app uses Tkinter for a clean and responsive interface, Pandas for handling and cleaning datasets, NumPy for quick statistical calculations, and Matplotlib for turning data into visual insights.
+
+With this tool, users can import CSV or Excel files, preview and clean the data, run statistical checks (like mean, median, standard deviation, and correlation), filter and sort records, and create different types of plots — including line, bar, histogram, and scatter charts.
+
+To make the experience smoother, I added dark/light mode, multi-language support (English and Bangla), and threaded processing so the interface never freezes. It also supports real-time plotting for live data updates and can export results toCSV, Excel, or JSON formats.
+
+The project is built on a modular architecture (controllers, utils, views), which makes it easy to maintain and scale. This approach makes the app flexible enough for researchers, educators, and industry professionals.
+
+It’s a project that highlights my skills in GUI development, data processing, data visualization, and software architecture design.
